@@ -7,5 +7,6 @@ redux
 redux-thunk
 
 browserrouter
+react suspense for lazy loading components
 
 jest enzyme
