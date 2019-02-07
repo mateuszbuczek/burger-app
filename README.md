@@ -6,7 +6,7 @@ react
 redux
 redux-thunk
 
-browserrouter
+browserrouter | react-router-dom
 
 react suspense for lazy loading components
 
